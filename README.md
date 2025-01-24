@@ -4,7 +4,7 @@
 <img align="right" alt ="coding" width="400" src="https://images.app.goo.gl/NC16Cveu9Cm1bMqW7">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatipandhare&label=Profile%20views&color=0e75b6&style=flat" alt="bharatipandhare" /> </p>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Backend development**
 
 - 📫 How to reach me **pandharebharti565@gmail.com**
 
