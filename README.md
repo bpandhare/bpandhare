@@ -6,7 +6,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bharatipandhare&label=Profile%20views&color=0e75b6&style=flat" alt="bharatipandhare" /> 
   <img src="https://img.shields.io/badge/CGPA-9.7%2F10-brightgreen" alt="CGPA" />
-  <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R4dWs0dGZ6aGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bCZpY2Q9NTMxNw/cZlTZzF0hU3KtJhp7D/giphy.gif" />
 </p>
 
 ## 🚀 About Me
@@ -75,26 +74,33 @@
 
 ## 🏅 Achievements & Certifications
 
+**Honors & Awards:**
 - 🥇 **Punyashlok Ahilyadevi Holkar University Topper** on Coding Ninjas (4 times)
 - 🔥 **100+ Day Coding Streak** on LeetCode & CodeChef
 - 🌟 **Meritorious Student Award** (2023)
-- ☁️ **AWS Academy Cloud Foundations** (AWS Certified)
+
+**Certifications:**
+- ☁️ **AWS Academy Cloud Foundations** (AWS)
 - 🐍 **Python Programming** (CodingNinjas)
 - 🎯 **Ninja Slayground 2.0** Coding Challenge (Coding Ninjas)
 - 💡 **Technovation 2025** (IEEE Bombay Section)
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatipandhare&show_icons=true&locale=en&layout=compact&theme=radical" alt="bharatipandhare" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatipandhare&show_icons=true&locale=en&theme=radical" alt="bharatipandhare" height="180px" />
-   -->
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatipandhare&theme=radical" alt="bharatipandhare" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatipandhare&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatipandhare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatipandhare&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-💡 *"Passionate about building scalable applications and solving real-world problems through code."*
+<p align="center">
+  <i>💡 "Passionate about building scalable applications and solving real-world problems through code."</i>
+</p>
