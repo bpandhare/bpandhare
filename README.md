@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharati Pandhare</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/programmer.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bharatipandhare&label=Profile%20views&color=0e75b6&style=flat" alt="bharatipandhare" /> 
