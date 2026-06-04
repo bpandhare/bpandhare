@@ -84,17 +84,15 @@
 
 ## 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatipandhare&show_icons=true&locale=en&layout=compact&theme=radical" alt="bharatipandhare" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatipandhare&show_icons=true&locale=en&theme=radical" alt="bharatipandhare" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatipandhare&theme=radical" alt="bharatipandhare" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatipandhare&show_icons=true&locale=en&layout=compact&theme=radical" alt="bharatipandhare" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatipandhare&show_icons=true&locale=en&theme=radical" alt="bharatipandhare" height="180px" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatipandhare&theme=radical" alt="bharatipandhare" />
+</div>
 
 ---
 
