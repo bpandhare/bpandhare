@@ -6,6 +6,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bharatipandhare&label=Profile%20views&color=0e75b6&style=flat" alt="bharatipandhare" /> 
   <img src="https://img.shields.io/badge/CGPA-9.7%2F10-brightgreen" alt="CGPA" />
+  <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R4dWs0dGZ6aGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bGZ6bCZpY2Q9NTMxNw/cZlTZzF0hU3KtJhp7D/giphy.gif" />
 </p>
 
 ## 🚀 About Me
